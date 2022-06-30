@@ -1,0 +1,2 @@
+# JSpractice
+destructuring objects
